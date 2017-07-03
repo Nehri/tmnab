@@ -1,2 +1,2 @@
 # tmnab
-Two Monks and a Bard -- travels post-graduation blog
+Two Monks and a Bard -- travel post-graduation blog
